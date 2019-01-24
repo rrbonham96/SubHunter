@@ -27,7 +27,7 @@ public class SubHunter extends Activity {
     boolean hit = false;
     int shotsTaken;
     int distanceFromSub;
-    boolean debugging = true;
+    boolean debugging = false;
     // Drawing objects
     ImageView gameView;
     Bitmap blankBitmap;
